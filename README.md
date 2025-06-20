@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A second-year Computer Science engineering student with a keen interest in coding</h3>
 
-- 🔭 I’m currently learning **Python**  
-- 🌱 Exploring the world of **Web Development**  
+- 🔭 I’m currently learning **Python**    
 - 💻 Tools I use: **HTML, CSS, Python, Git, VS Code**
 
 ---
