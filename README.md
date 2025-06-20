@@ -2,7 +2,7 @@
 <h3 align="center">A second-year Computer Science engineering student with a keen interest in coding</h3>
 
 - 🔭 I’m currently learning **Python**    
-- 💻 Tools I use: **HTML, CSS, Python, Git, VS Code**
+- 💻 Tools I use: **HTML, CSS, Python, Git, VS Code, C, Js**
 
 ---
 
